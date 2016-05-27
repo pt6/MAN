@@ -133,6 +133,7 @@
     type = InterfaceOrientationMaterial
     block = 0
     c = c
+    mode_number = 2
     eps_bar = 0.02
   [../]
   [./free_energy_A]
