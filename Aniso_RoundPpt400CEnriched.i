@@ -132,9 +132,9 @@
   [./aniso_material]
     type = InterfaceOrientationMaterial
     block = 0
-    c = c
     mode_number = 2
     eps_bar = 0.02
+    op = eta
   [../]
   [./free_energy_A]
     type = DerivativeParsedMaterial
